@@ -1,0 +1,12 @@
+{
+  "kr": {
+    "version": "1.3.0",
+    "build": 15,
+    "storeUrl": "https://play.google.com/store/apps/details?id=kr.wowpia.nailmanagerapp"
+  },
+  "global": {
+    "version": "1.4.0",
+    "build": 16,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.wowpia.nailshopmanager"
+  }
+}
